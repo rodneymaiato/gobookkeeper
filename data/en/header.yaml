@@ -1,0 +1,12 @@
+logo_image: 
+logo_subtitle: Accountant/Bookkeeper
+mobile_view_width: 1000
+menuitems:
+  - title: Blog
+    link: /blog/
+  - title: About
+    link: /about/
+cta:
+  active: true
+  title: Contact
+  link: /contact/
