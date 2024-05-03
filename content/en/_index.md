@@ -5,11 +5,11 @@ title: Home
 
 # Grow Your Business, Not Your To-Do List: Streamlined Bookkeeping Solutions
 
-Imagine peace of mind knowing your finances are meticulously organized. No more wondering where your money went. I provide stress-free bookkeeping solutions for small businesses and creatives, focusing on accuracy and timeliness. Your books are always up-to-date so that you can make informed decisions confidently.
+Knowing your finances are organized gives you peace of mind. No more wondering where your money went. I provide stress-free bookkeeping solutions for small businesses, solopreneurs, and creatives, focusing on accuracy and timeliness. Your books are always up-to-date so that you can make informed decisions confidently.
 
 {{< button "Get Started Now" "/get-started/" >}}
 
-![](/uploads/illustrations/cuate/hero-1.svg)
+![](/uploads/illustrations/cuate/hero.svg)
 
 {{< /brick_intro >}}
 {{< brick_image2 >}}
@@ -31,14 +31,6 @@ I take care of all the tedious administrative tasks that keep you from growing y
 
 {{< /brick_image2 >}}
 <!-- {{< brick_image >}}
-
-## What bricks are available?
-
-![](/uploads/illustrations/cuate/version-control.svg)
-
-We aim to provide the following bricks: intro, title, image, cta, contact, team, testimonials, about, pricing, products, product, usps, stats, gallery, quote, faqs, brands, video, blogs, post, related. 
-
-We are constantly adding bricks and shortcodes to this theme. Are you missing a brick or a shortcode? [Let us know](/contact/)! We will build it for you!
 
 {{< /brick_image >}} -->
 {{< brick_reviews >}}{{< /brick_reviews >}}

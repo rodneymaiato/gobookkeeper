@@ -12,8 +12,8 @@
     --textMedium: rgba(38, 50, 56, 0.7);
     --borderMedium: rgba(38, 50, 56, 0.2); 
     --borderLight: rgba(38, 50, 56, 0.075);
-    --accent: #A21CAF;
-    --textAccent: #A21CAF;
+    --accent: #dc143c;
+    --textAccent: crimson;
     --light: rgba(38, 50, 56, 0.035);
 }
 /*------------------------*/
@@ -44,5 +44,4 @@ img {filter: grayscale(0);}
 /* black_2_accent
 /*------------------------*/
 
-.black_2_accent {filter: invert(18%) sepia(100%) saturate(2825%) hue-rotate(285deg) brightness(86%) contrast(98%);}
-
+.black_2_accent {filter: brightness(0) saturate(100%) invert(16%) sepia(57%) saturate(4814%) hue-rotate(336deg) brightness(103%) contrast(102%);}

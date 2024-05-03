@@ -1,5 +1,5 @@
 ---
-title: This theme has a perfect Google Lighthouse&nbsp;score
+title: How to Save Your Receipts
 image: /uploads/gallery/02.jpg
 date: 2023-07-11
 tags:
