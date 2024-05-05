@@ -3,7 +3,7 @@ title: Home
 ---
 {{< brick_intro >}}
 
-# Grow Your Business, Not Your To-Do List: Streamlined Bookkeeping Solutions
+# Bookkeeping Built for the Challenges of Running a Small Business
 
 Knowing your finances are organized gives you peace of mind. No more wondering where your money went. I provide stress-free bookkeeping solutions for small businesses, solopreneurs, and creatives, focusing on accuracy and timeliness. Your books are always up-to-date so that you can make informed decisions confidently.
 

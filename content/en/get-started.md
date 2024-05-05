@@ -14,4 +14,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc feugiat, nulla et 
 {{< contactform >}}
 
 {{< /brick_small >}}
-{{< brick_map >}}{{< /brick_map >}}
+<!-- {{< brick_map >}}{{< /brick_map >}} -->

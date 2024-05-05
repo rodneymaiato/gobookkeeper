@@ -26,4 +26,4 @@ joost@vdschee.nl
 {{< socialbuttons >}}
 
 {{< /brick_contact >}}
-{{< brick_map >}}{{< /brick_map >}}
+<!-- {{< brick_map >}}{{< /brick_map >}} -->
