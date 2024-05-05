@@ -16,6 +16,10 @@
     --textAccent: crimson;
     --light: rgba(38, 50, 56, 0.035);
 }
+
+html {font-size: clamp(18px, 2vw, 22px); line-height: 1.7; height: 100%; scroll-behavior: smooth; background: var(--light);}
+
+
 /*------------------------*/
 /* turn grayscale off
 /*------------------------*/
