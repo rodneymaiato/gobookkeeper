@@ -8,16 +8,16 @@
 /*------------------------*/
 
 :root {
-    --textDark: rgba(38, 50, 56, 1);
+    --textDark: #14324F;
     --textMedium: rgba(38, 50, 56, 0.7);
     --borderMedium: rgba(38, 50, 56, 0.2); 
     --borderLight: rgba(38, 50, 56, 0.075);
-    --accent: #dc143c;
-    --textAccent: crimson;
+    --accent: #00892E;
+    --textAccent: #00892E;
     --light: rgba(38, 50, 56, 0.035);
 }
 
-html {font-size: clamp(16px, 2vw, 20px); line-height: 1.7; height: 100%; scroll-behavior: smooth; background: var(--light);}
+html {font-size: clamp(16px, 2vw, 18px); line-height: 1.7; height: 100%; scroll-behavior: smooth; background: var(--light);}
 
 body {
     h1, h2, h3, h4 {
@@ -54,4 +54,4 @@ img {filter: grayscale(0);}
 /* black_2_accent
 /*------------------------*/
 
-.black_2_accent {filter: brightness(0) saturate(100%) invert(16%) sepia(57%) saturate(4814%) hue-rotate(336deg) brightness(103%) contrast(102%);}
+.black_2_accent {filter: invert(76%) sepia(28%) saturate(5058%) hue-rotate(328deg) brightness(98%) contrast(99%);}
